@@ -7,6 +7,6 @@ Check out my teammates:
 <br>
 https://github.com/ifighter123
 <br>
-https://github.com/ghostarmor
+https://github.com/ghostarmor (he wrote the algorithm)
 <br>
 https://replit.com/@eara23
