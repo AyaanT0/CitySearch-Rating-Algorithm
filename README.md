@@ -5,7 +5,7 @@ This code is the algorithm for our Hack To Tomorrow Hackathon Project
 
 Check out my teammates:
 <br>
-https://github.com/ifighter123
+https://github.com/dev-wood
 <br>
 https://github.com/ghostarmor (he wrote the algorithm)
 <br>
