@@ -27,4 +27,4 @@ class Business {
 }
 
 //https://replit.com/join/ajralwqdjx-ayaant0
-/Here is the replit link
+//Here is the replit link
